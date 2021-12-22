@@ -153,7 +153,7 @@ export default {
         'shoes',
         'Accessories'
       ],
-      items2: ['Deals of the day', 'Ramadan Sale','mona','sayed','shazly']
+      items2: ['Deals of the day', 'Ramadan Sale']
     }
   },
   computed: {
